@@ -1,0 +1,22 @@
+[{
+    "id":1,
+    "title":"HTML",
+    "department":{
+        "id":1,
+        "name":"WebUI"
+    }
+},{
+    "id":2,
+    "title":"CSS",
+    "department":{
+        "id":1,
+        "name":"WebUI"
+    }
+},{
+    "id":3,
+    "title":"AJAX",
+    "department":{
+        "id":1,
+        "name":"WebUI"
+    }
+}]
